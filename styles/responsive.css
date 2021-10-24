@@ -1,0 +1,69 @@
+/*tablets */
+
+@media only screen and (min-width : 992px) {
+    h1 {
+        font-size: 50px !important;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h6 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+header{
+    height: 600px !important;
+}
+#slide{
+    padding-left: 5%;
+}
+.box-feature{
+    margin-top: 15px;
+}
+.box-feature-two{
+    margin-top: 5px !important;
+}
+/* #section-three{
+    padding-bottom: 30px;
+} */
+#section-three img{
+    margin: 20px 0 0;
+    
+}
+.h2-two{
+    margin-top: 20px;
+}
+#testimonials{
+    padding: 30px 0;
+}
+#testimonials h2{
+    margin-top: 20px;
+}
+#testimonials img{
+    margin-top: 30px;
+}
+#call-to-action h1{
+    font-size: 28px !important;
+}
+#call-to-action button{
+    margin-top: 20px;
+}
+}

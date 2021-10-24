@@ -58,7 +58,7 @@ p{
 }
 .float-left{
     float: left;
-    padding-left: 10%;
+    padding-left: 13%;
 }
 .float-right{
     float: right;
@@ -454,7 +454,7 @@ background: #82bb60;
     background: #6fb048;
     color:#fff;
     border:none;
-    padding: 11px 15px;
+    padding: 11px 1px;
 }
 
 /* Footer Section */
@@ -610,6 +610,9 @@ background: #49659f;
     background: #eef1ec;
     padding: 57px 0 84px;
 }
+#our-teams .row{
+    margin: 0px 10px 0px 80px;
+}
 #our-teams h1{
     font-size: 32px;
     color:#0f5f5c;
@@ -663,7 +666,7 @@ background: #49659f;
     padding:12px 15px;
 }
 .left-call{
-    float: left;
+    /* float: left; */
 }
 .right-call{
     float: right;
